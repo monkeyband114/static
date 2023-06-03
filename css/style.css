@@ -622,7 +622,7 @@ form#commant_form div.field textarea.custom_field {
 .main-heading::after {
     width: 30px;
     height: 4px;
-    background: #feb61a;
+    background: #3f3112;
     content: "";
     margin: 0;
     display: block;
